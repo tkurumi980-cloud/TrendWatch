@@ -30,7 +30,7 @@ watchlist:
 # 2) BREAKOUT detection - when does a watched keyword count as "breaking out"?
 breakout:
   period: "7D"            # window to measure growth over (7D, 14D, 30D, 1M, 3M, ...)
-  threshold_pct: 50       # alert when growth over `period` is >= this %
+  threshold_pct: 10       # alert when growth over `period` is >= this %
   also_periods: ["1M", "3M"]   # shown for context in the alert (no extra quota)
 
 # 3) REPORTS - the shareable artifacts TrendWatch writes back to your repo.
