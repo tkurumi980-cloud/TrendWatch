@@ -10,8 +10,8 @@ name: TrendWatch
 # ─────────────────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: "0 13 * * *"
-  workflow_dispatch: {}        # lets you run it manually from the Actions tab
+    - cron: "0 22 * * *"   # runs daily at 22:00 UTC = ~6:00 AM Philippines time
+  workflow_dispatch: {}     # lets you also trigger it manually from the Actions tab
 
 permissions:
   contents: write              # so it can commit state + reports back
