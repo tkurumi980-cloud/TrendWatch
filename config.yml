@@ -4,17 +4,16 @@
 # └─────────────────────────────────────────────────────────────────────┘
 
 # 1) WATCHLIST - keywords you want a heads-up about when they start spiking.
-#    This is the whole product: pick keywords, get pinged when they break out.
-#    Each (keyword × source) costs 1 API request per run. Keep it lean on the
-#    free tier (100 req/month). Run `python -m trendwatch quota` to see the math.
-#    3 keywords x 1 source x daily(~30 runs) = ~90 req/mo -> safely under 100.
+#    NOTE: not every keyword+source pair has data. "retro tech nostalgia" on
+#    tiktok and "memorial shirt" on amazon both 404'd (no time series data) -
+#    switched both to "google search", the most reliable source for phrases.
 watchlist:
   - keyword: "personalized pet portrait"
     sources: ["google search"]
   - keyword: "retro tech nostalgia"
-    sources: ["tiktok"]
+    sources: ["google search"]
   - keyword: "memorial shirt"
-    sources: ["amazon"]
+    sources: ["google search"]
   # More examples (uncomment / edit - watch your quota if you add these back):
   # - keyword: "digital nomad merch"
   #   sources: ["google search"]
