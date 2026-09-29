@@ -35,14 +35,13 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-09-28 00:12 UTC
+### 📊 Live trends - updated 2026-09-29 01:22 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
 **🚀 Breakouts on the watchlist**
 
-- 🔥 **retro tech nostalgia** is breaking out on google search: +100% over 7D  (1M +999999%, 3M +999999%)
-- 📈 **personalized pet portrait** is breaking out on google search: +50% over 7D  (1M -40%, 3M -59%)
+- 🚀 **retro tech nostalgia** is breaking out on google search: +999999% over 7D  (1M +999999%, 3M +999999%)
 
 <sub>Auto-updated by TrendWatch · powered by [Trends MCP](https://www.trendsmcp.ai)</sub>
 
