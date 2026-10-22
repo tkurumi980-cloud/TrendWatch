@@ -1,8 +1,7 @@
-# 📊 TrendWatch report - 2026-10-21 00:18 UTC
+# 📊 TrendWatch report - 2026-10-22 00:20 UTC
 
 ## 🚀 Watchlist breakouts
 
-- 🚀 **retro tech nostalgia** is breaking out on google search: +999999% over 7D  (1M +999999%, 3M +999999%)
 - 🔥 **personalized pet portrait** is breaking out on google search: +150% over 7D  (1M -81%, 3M -29%)
 
 ---
