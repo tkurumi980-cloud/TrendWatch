@@ -35,13 +35,13 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-11-22 01:50 UTC
+### 📊 Live trends - updated 2026-11-23 02:06 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
 **🚀 Breakouts on the watchlist**
 
-- ↗️ **memorial shirt** is breaking out on google search: +20% over 7D  (1M -45%, 3M -57%)
+- 📈 **personalized pet portrait** is breaking out on google search: +50% over 7D  (1M -57%, 3M -65%)
 
 <sub>Auto-updated by TrendWatch · powered by [Trends MCP](https://www.trendsmcp.ai)</sub>
 
